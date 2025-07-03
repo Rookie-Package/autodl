@@ -47,10 +47,10 @@ stock = client.get_gpu_stock("westDC2", 118)
 
 ## 📚 文档
 
-- [详细文档](docs/README.md)
-- [状态报告](docs/STATUS.md)
-- [使用示例](examples/)
-
+- [使用示例](examples/autodl_example.ipynb)
+- [官网API文档](https://www.autodl.com/docs/esd_api_doc/)
+- [弹性部署](https://www.autodl.com/docs/elastic_deploy/)
+- [弹性部署最佳实践](https://www.autodl.com/docs/elastic_deploy_practice/)
 ## 🧪 测试
 
 ```bash
