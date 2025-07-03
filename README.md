@@ -16,7 +16,7 @@ pip install autodl-api
 ### 从源码安装
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rookie-Package/autodl.git
 cd autodl
 pip install -e .
 ```
