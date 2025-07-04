@@ -3,9 +3,9 @@ AutoDL弹性部署API封装包
 支持所有AutoDL弹性部署相关功能
 """
 
-__version__ = "1.0.0"
-__author__ = "AutoDL API Wrapper"
-__email__ = "support@autodl.com"
+__version__ = "1.0.2"
+__author__ = "Rookie"
+__email__ = "RookieEmail@163.com"
 
 from .autodl_elastic_deployment import AutoDLElasticDeployment, AutoDLConstants
 

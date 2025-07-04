@@ -4,17 +4,16 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "autodl-api"
-version = "1.0.0"
+version = "1.0.2"
 description = "AutoDL弹性部署API封装类，支持所有弹性部署相关功能"
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 authors = [
-    {name = "AutoDL API Wrapper"}
+    {name = "Rookie", email = "RookieEmail@163.com"}
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.7",
@@ -39,10 +38,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-username/autodl-api"
-Documentation = "https://github.com/your-username/autodl-api"
-Repository = "https://github.com/your-username/autodl-api"
-"Bug Tracker" = "https://github.com/your-username/autodl-api/issues"
+Homepage = "https://github.com/Rookie-Package/autodl.git"
+Documentation = "https://github.com/Rookie-Package/autodl.git"
+Repository = "https://github.com/Rookie-Package/autodl.git"
+"Bug Tracker" = "https://github.com/Rookie-Package/autodl/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
